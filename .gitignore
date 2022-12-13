@@ -2,3 +2,6 @@ node_modules
 dist
 .env
 modified-image.png
+npm-debug.log
+.nyc
+.DS_Store
